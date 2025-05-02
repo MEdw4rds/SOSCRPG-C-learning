@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WPFUI.Models;
+using Engine.Models;
 
-namespace WPFUI.ViewModels
+namespace Engine.ViewModels
 {
     public class GameSession
     {

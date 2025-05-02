@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPFUI.Models
+namespace Engine.Models
 {
     public class Player
     {

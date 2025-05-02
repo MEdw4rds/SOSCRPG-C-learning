@@ -7,9 +7,9 @@ using WPFUI.Models;
 
 namespace WPFUI.ViewModels
 {
-    class GameSession
+    public class GameSession
     {
-        Player CurrentPlayer {  get; set; }
+        public Player CurrentPlayer {  get; set; }
 
         public GameSession()
         {
